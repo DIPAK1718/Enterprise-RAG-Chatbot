@@ -1,5 +1,4 @@
 import os
-import shutil
 import time
 
 import streamlit as st
@@ -60,7 +59,7 @@ if uploaded_files:
         with open(save_path, "wb") as f:
             f.write(uploaded_file.getbuffer())
 
-    st.sidebar.success("PDF Uploaded Successfully!")
+    st.sidebar.success("✅ PDF uploaded successfully.")
 
 st.sidebar.markdown("---")
 
@@ -81,16 +80,6 @@ for pdf in pdfs:
 
 st.sidebar.markdown("---")
 
-if st.sidebar.button("🔄 Rebuild Knowledge Base"):
-
-    if os.path.exists(VECTOR_DB):
-        shutil.rmtree(VECTOR_DB)
-
-    st.cache_resource.clear()
-
-    st.sidebar.success("✅ Knowledge Base Rebuilt!")
-
-    st.rerun() 
 
 if st.sidebar.button("🗑 Clear Chat"):
 
