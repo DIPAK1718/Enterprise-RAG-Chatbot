@@ -10,7 +10,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain
 - 🤗 HuggingFace Embeddings
 - 💬 Chat Interface 
 - 📚 Source Citation
-- ⚡ Response Time Display
+- ⚡ Response Time Display 
 - 🗑 Clear Chat
 - 🔄 Rebuild Knowledge Base
 
