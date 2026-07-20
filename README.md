@@ -12,7 +12,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain
 - 📚 Source Citation
 - ⚡ Response Time Display 
 - 🗑 Clear Chat 
-- 🔄 Rebuild Knowledge Base 
+- 🔄 Rebuild Knowledge Base  
 
 --- 
 
