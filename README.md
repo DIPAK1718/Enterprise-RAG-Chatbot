@@ -9,7 +9,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain
 - 🧠 Local LLM (Gemma 3 4B via Ollama)  
 - 🤗 HuggingFace Embeddings 
 - 💬 Chat Interface    
-- 📚 Source Citation
+- 📚 Source Citation 
 - ⚡ Response Time Display 
 - 🗑 Clear Chat 
 - 🔄 Rebuild Knowledge Base  
