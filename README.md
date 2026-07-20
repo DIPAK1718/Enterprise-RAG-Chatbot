@@ -5,7 +5,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain
 ## Features
 
 - 📄 Multiple PDF Upload 
-- 🔍 Semantic Search using ChromaDB
+- 🔍 Semantic Search using ChromaDB 
 - 🧠 Local LLM (Gemma 3 4B via Ollama)  
 - 🤗 HuggingFace Embeddings 
 - 💬 Chat Interface   
