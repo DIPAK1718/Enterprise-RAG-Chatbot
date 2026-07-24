@@ -22,7 +22,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain
 - Streamlit
 - LangChain
 - Ollama
-- Gemma 3 4B
+- Gemma 3 4B 
 - HuggingFace Embeddings
 - ChromaDB
 
