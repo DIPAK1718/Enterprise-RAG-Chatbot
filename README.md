@@ -3,7 +3,7 @@
 An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain, Ollama, ChromaDB, Hugging Face Embeddings, and Streamlit.
 
 ## Features
-
+ 
 - 📄 Multiple PDF Upload 
 - 🔍 Semantic Search using ChromaDB  
 - 🧠 Local LLM (Gemma 3 4B via Ollama)   
