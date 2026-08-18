@@ -1,5 +1,5 @@
 # 🤖 Enterprise RAG Chatbot
-
+ 
 An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain, Ollama, ChromaDB, Hugging Face Embeddings, and Streamlit.
 
 ## Features 
