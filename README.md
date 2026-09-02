@@ -28,7 +28,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain
 
 ---
 
-## Installation
+## Installation 
 
 ```bash
 git clone <repo-url>
