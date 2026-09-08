@@ -19,7 +19,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) chatbot built using LangChain
 ## Tech Stack  
  
 - Python
-- Streamlit
+- Streamlit 
 - LangChain 
 - Ollama
 - Gemma 3 4B 
